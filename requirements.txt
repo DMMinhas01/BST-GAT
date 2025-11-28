@@ -1,0 +1,4 @@
+networkx>=2.8
+numpy>=1.23
+pandas>=1.5
+torch>=2.0
